@@ -8,6 +8,10 @@
 }
 body{
     background-image:linear-gradient(to left, red,yellow);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+    margin: 0%;
 }
 .name{
     height: 50px;
